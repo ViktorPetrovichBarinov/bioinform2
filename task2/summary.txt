@@ -1,0 +1,14 @@
+Последовательность в файле - sequence.txt
+Инструмент 1 фолдинга белков - RoseTTAFold2
+Инструмент 2 фолдинга белков - AlphaFold2
+Инструмент парного выравнивания - TMAlign (в списке Alignment Method)
+
+AlphaFold2_result, RoseTTAFold2_result - результаты фолдинга
+
+alignment_web_result - результаты выравнивания
+
+Сессия PyMol - session.pse
+
+Снимки раскрашенного выравнивания - first.png, second.png
+
+Вывод - conclusion.txt
